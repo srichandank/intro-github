@@ -1,2 +1,2 @@
 # intro-github
-this repo is for coding classes
+This repo is for coding classes
